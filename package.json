@@ -1,9 +1,9 @@
 {
-  "name": "western-atlantic-user-service",
+  "name": "western-atlantic-square-service",
   "version": "1.0.0",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/jpopesculian/wa-user-service",
+    "url": "https://github.com/jpopesculian/wa-square-service",
     "type": "git"
   },
   "author": "Julian Popescu <jpopesculian@gmail.com>",
